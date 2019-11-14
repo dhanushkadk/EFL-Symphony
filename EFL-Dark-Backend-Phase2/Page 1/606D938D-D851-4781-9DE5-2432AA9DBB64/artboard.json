@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.2980392156862745,
-    "do_objectID": "7AAC771B-00F9-49D4-90D9-5B772997E9EA",
     "green": 0.2980392156862745,
     "red": 0.2980392156862745
   },
@@ -13,7 +12,6 @@
   "do_objectID": "606D938D-D851-4781-9DE5-2432AA9DBB64",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "588D7DCC-7DF9-4B14-8A41-25EABB419100",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,7 +31,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "75AE07EB-5D18-4BA1-92DF-D712AB91D733",
     "height": 1536,
     "width": 1440,
     "x": -1908,
@@ -41,14 +38,12 @@
   },
   "grid": {
     "_class": "simpleGrid",
-    "do_objectID": "A4343B7D-7751-40A8-872B-4B5B42790E8D",
     "gridSize": 20,
     "isEnabled": false,
     "thickGridTimes": 10
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "5150018D-52B9-4FFC-9CB6-A9D9897417ED"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -56,7 +51,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -251,
-    "do_objectID": "C7388740-63F6-4F50-9E5D-E100D6AB07CF",
     "guides": [
     ]
   },
@@ -86,7 +80,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 70,
-    "do_objectID": "783EF66C-3171-47C6-8B24-1459D105359C",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -99,8 +92,11 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1200
   },
+  "maintainScrollPosition": false,
   "name": "Shipment-Lists Of Active Shipment Advance Filter",
   "nameIsFixed": true,
+  "presetDictionary": {
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -108,6 +104,23 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
     "borders": [
       {
         "_class": "border",
@@ -118,15 +131,70 @@
           "green": 0.592,
           "red": 0.592
         },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
         "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0,
+                "red": 0
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
         "isEnabled": true,
         "position": 0,
         "thickness": 1
       }
     ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "27445814-A5FA-41EB-A05A-96C77C540008",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
@@ -142,7 +210,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -266,
-    "do_objectID": "DF7BAC8C-4A21-443E-B541-460C3BAC7813",
     "guides": [
     ]
   }

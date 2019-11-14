@@ -5,7 +5,6 @@
   "do_objectID": "507FD7D4-FBDD-41AC-80F3-A465BB777FBF",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "97F390A3-EFED-40BE-89DB-7F4EFB0A48A9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4B5DA13D-4E12-4325-BC8D-4BC1D67AD707",
     "height": 72,
     "width": 990,
     "x": 375,
@@ -30,12 +28,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Admin Users symbol Copy 3",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F8812E98-C3E7-4601-962E-0F3683D76D89",
       "overrideName": "2F788716-584A-4845-B5B9-B71A02D0BB87_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -45,19 +43,16 @@
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "9B97E3A7-17B4-4102-B6EA-3BE8A3E20646",
       "overrideName": "08686E56-4C17-45DC-8812-3187D89AB7F5_stringValue",
       "value": "Level 02"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "71EECF33-9AB6-4B19-93AE-501DB4734DF2",
       "overrideName": "5C7658FA-F2F9-4F8D-B803-ECB469B3D73D_stringValue",
       "value": "Joyce Roberts"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "EEFC7911-DA40-45C9-B9D8-27955E52DDD9",
       "overrideName": "7CC7FB14-D54A-4F9D-847B-A32B038DB034_stringValue",
       "value": "joyce@efl.com"
     }
@@ -69,9 +64,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "8B8E0E07-01D5-455A-B54A-84BF42CAEB59",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

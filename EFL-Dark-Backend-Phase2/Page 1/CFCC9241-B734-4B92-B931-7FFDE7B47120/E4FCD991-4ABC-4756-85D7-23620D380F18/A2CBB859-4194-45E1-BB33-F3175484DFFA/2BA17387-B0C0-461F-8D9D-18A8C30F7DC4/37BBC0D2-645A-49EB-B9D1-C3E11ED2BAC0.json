@@ -5,7 +5,6 @@
   "do_objectID": "37BBC0D2-645A-49EB-B9D1-C3E11ED2BAC0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "06B4303F-2E12-4B94-B7B8-5A9F6C4213B5",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -25,7 +24,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C80BB6DB-D099-48A1-A0E6-53B787B779B5",
     "height": 24,
     "width": 22,
     "x": 26,
@@ -39,6 +37,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Booking",
   "nameIsFixed": false,
   "overrideValues": [
@@ -50,9 +49,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "3AEFAF19-3EBA-43D0-9F8D-5A6FBF717ABD",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
