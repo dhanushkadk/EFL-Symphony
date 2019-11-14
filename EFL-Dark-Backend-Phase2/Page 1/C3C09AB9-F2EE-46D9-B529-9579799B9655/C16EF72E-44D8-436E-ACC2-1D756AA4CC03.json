@@ -5,7 +5,6 @@
   "do_objectID": "C16EF72E-44D8-436E-ACC2-1D756AA4CC03",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "64C0BD47-4D85-401F-905E-8A3B81AED12A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +15,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "ECCDE57E-9BAC-4E9F-ABBB-A783BECECABC",
     "height": 72,
     "width": 990,
     "x": 375,
@@ -30,36 +28,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "maintainScrollPosition": false,
   "name": "Admin Users symbol Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "1B904F55-B8BD-40E0-A4B1-3E917AAC5632",
       "overrideName": "5C7658FA-F2F9-4F8D-B803-ECB469B3D73D_stringValue",
       "value": "Eugene Santos"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "6F3CFEC2-7144-4364-84CD-27C78958E3D0",
       "overrideName": "7CC7FB14-D54A-4F9D-847B-A32B038DB034_stringValue",
       "value": "eugene@efl.com"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "1C9E6602-A7FB-4D04-8968-900B2AB81A30",
       "overrideName": "08686E56-4C17-45DC-8812-3187D89AB7F5_stringValue",
       "value": "Level 01"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "2B1E80FA-9A1A-4F8C-91F9-55DDBDD5D688",
       "overrideName": "5CECEF40-5162-4C7D-B6FB-3217F2B81A6C_stringValue",
       "value": "1-(269)987 - 2218"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "A111FC59-BA4A-4509-8705-F27D7568B12E",
       "overrideName": "2F788716-584A-4845-B5B9-B71A02D0BB87_image",
       "value": {
         "_class": "MSJSONFileReference",
@@ -75,9 +69,47 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "C30D570B-6C15-4762-9A0A-B40B2F03B688",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

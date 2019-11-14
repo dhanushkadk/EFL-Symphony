@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.2980392156862745,
-    "do_objectID": "77FCC1A8-CA6B-4DC7-807E-03577C9AB390",
     "green": 0.2980392156862745,
     "red": 0.2980392156862745
   },
@@ -13,7 +12,6 @@
   "do_objectID": "97B07F7E-CFE7-40F1-BA68-9CE46445DBE6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4F8A7898-6C32-426A-8AD9-4FA7CB90F3A9",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,15 +31,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "32FA3625-5FC1-4351-989F-B8539C41FF92",
     "height": 1024,
     "width": 1440,
     "x": -300,
     "y": -21435
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "2DF76067-48CF-4310-9307-C6097EF11F0C"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -49,7 +45,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "4E237933-3668-4880-A90F-838983BA16A3",
     "guides": [
     ]
   },
@@ -72,6 +67,7 @@
       "id": "DF1881E9-A496-4C8B-9074-32847901DBA0"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Login - Reset Password",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -88,16 +84,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "0CE30DD0-14FE-47F7-8A8E-DE16C46D42B8",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "B2811760-89ED-48E2-BBE5-84A44E9655A0",
     "guides": [
     ]
   }

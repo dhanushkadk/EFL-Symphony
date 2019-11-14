@@ -4,7 +4,6 @@
     "_class": "color",
     "alpha": 1,
     "blue": 0.2980392156862745,
-    "do_objectID": "E6BE4B6A-CC0A-4556-B53C-BF81342E824F",
     "green": 0.2980392156862745,
     "red": 0.2980392156862745
   },
@@ -13,7 +12,6 @@
   "do_objectID": "885501D4-BFF1-439F-A767-71950F0BB0C5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5B2298B9-1AF5-42D4-B24D-EE231C29E062",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -33,15 +31,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "BBD9CFC6-98D6-4979-A94C-1B5C2BFE5433",
     "height": 1024,
     "width": 1440,
     "x": -6460,
     "y": -21435
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "545894F4-49D0-49F6-B927-3CD1248DAB65"
+    "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": false,
@@ -49,7 +45,6 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "81E8024E-466F-4D51-9B9E-AEB3CEB7AC2F",
     "guides": [
     ]
   },
@@ -72,6 +67,7 @@
       "id": "C9CF712E-2E0E-4053-94C1-B373179EB058"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Admin Login",
   "nameIsFixed": true,
   "presetDictionary": {
@@ -88,16 +84,53 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
     "do_objectID": "4B288A7F-04F8-4C4B-9C39-3212CB377307",
     "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
     "miterLimit": 10,
+    "shadows": [
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3F40BD67-880D-4C00-8B0C-EFD6114C5741",
     "guides": [
       259,
       767
